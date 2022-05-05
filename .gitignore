@@ -1,1 +1,4 @@
 app/__pycache__
+app/firebase-key.json
+app/.env
+.vscode
